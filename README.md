@@ -42,6 +42,8 @@ I specialize in:
 ---
 
 ## 💼 Work Experience
+**🖥️ Technical** *(Part-Time)*  
+🗓️ 1+ year | 🔩 Technical 
 
 **🖥️ Developer & Server Specialist** *(Freelance)*  
 🗓️ 3+ years | ⚒️ Development & Administration  

@@ -73,7 +73,7 @@ An advanced **Minecraft duel system plugin** with:
 | Project              | Role                  | Main Technologies              |
 |----------------------|-----------------------|--------------------------------|
 | **VanguardMC**       | Creator / Developer / Config   | Java, VPS, Linux, Marketing, JavaScript    |
-| **IgnisMC Network**       | Config   | Java    |
+| **IgnisMC Network**       | Developer / Config    | Java    |
 | **MineCloud**        | Developer / Config    | Java, Python, JavaScript       |
 | **NightMC Network**  | Developer / Config    | Java, Python, Node.js          |
 | **RusticoLatam Servers**       | Developer   | JavaScript    |

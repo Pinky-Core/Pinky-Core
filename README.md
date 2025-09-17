@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-My name is **Luca Caporaloni**, I am currently studying **Game Development and Production of Video Games & Simulators at UAI**, now in my third year.  
+My name is **Luca**, I am currently studying **Game Development and Production of Video Games & Simulators at UAI**, now in my third year.  
 I specialize in:
 
 - Developing **Minecraft plugins**
@@ -73,6 +73,7 @@ An advanced **Minecraft duel system plugin** with:
 | Project              | Role                  | Main Technologies              |
 |----------------------|-----------------------|--------------------------------|
 | **VanguardMC**       | Creator / Developer / Config   | Java, VPS, Linux, Marketing, JavaScript    |
+| **IgnisMC Network**       | Config   | Java    |
 | **MineCloud**        | Developer / Config    | Java, Python, JavaScript       |
 | **NightMC Network**  | Developer / Config    | Java, Python, Node.js          |
 | **RusticoLatam Servers**       | Developer   | JavaScript    |
@@ -87,6 +88,10 @@ An advanced **Minecraft duel system plugin** with:
 Game Development & Production of Video Games and Simulators  
 🗓️ 2023 – Present  
 
+**🎓 Universidad Nacional de Lomas de Zamora (UNLZ)**  
+Business Administrator  
+🗓️ 2024 – Present  
+
 ---
 
 ## 🌍 Languages
@@ -99,7 +104,7 @@ Game Development & Production of Video Games and Simulators
 ## 📢 Contact
 
 - 📧 Email: **[pinkycorestudio@gmail.com]**  
-- 🔗 Discord: **Pinky-Core**  
+- 🔗 Discord: **lukitax9286**  
 - 📚 GitHub: [@Pinky-Core](https://github.com/Pinky-Core)
 
 ---

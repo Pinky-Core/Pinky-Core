@@ -68,20 +68,6 @@ An advanced **Minecraft duel system plugin** with:
 
 ---
 
-### 🎮 Game Server Projects
-
-| Project              | Role                  | Main Technologies              |
-|----------------------|-----------------------|--------------------------------|
-| **VanguardMC**       | Creator / Developer / Config   | Java, VPS, Linux, Marketing, JavaScript    |
-| **IgnisMC Network**       | Developer / Config    | Java    |
-| **MineCloud**        | Developer / Config    | Java, Python, JavaScript       |
-| **NightMC Network**  | Developer / Config    | Java, Python, Node.js          |
-| **RusticoLatam Servers**       | Developer   | JavaScript    |
-| **SatipoCraft Network** | Developer / Config | Java, VPS, MySQL               |
-| **SatipoHosting**       | Support   |     |
-
----
-
 ## 🏫 Education
 
 **🎓 Universidad Abierta Interamericana (UAI)**  
@@ -104,7 +90,7 @@ Business Administrator
 ## 📢 Contact
 
 - 📧 Email: **[pinkycorestudio@gmail.com]**  
-- 🔗 Discord: **lukitax9286**  
+- 🔗 Discord: **lukitax9288**  
 - 📚 GitHub: [@Pinky-Core](https://github.com/Pinky-Core)
 
 ---

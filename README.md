@@ -46,7 +46,7 @@ I specialize in:
 🗓️ 1+ year | 🔩 Technical 
 
 **🖥️ Developer & Server Specialist** *(Freelance)*  
-🗓️ 3+ years | ⚒️ Development & Administration  
+🗓️ 4+ years | ⚒️ Development & Administration  
 - Development of custom Minecraft plugins (Java)  
 - Game server setup and optimization  
 - VPS and dedicated server management  

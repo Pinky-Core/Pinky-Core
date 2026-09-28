@@ -55,19 +55,6 @@ I specialize in:
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎮 PinkyRooms (Main Project)
-[![PinkyRooms](https://img.shields.io/badge/GitHub-Project-181717?style=for-the-badge&logo=github)](https://github.com/Pinky-Core)
-
-An advanced **Minecraft duel system plugin** with:  
-- Custom arenas  
-- ELO rating system  
-- Integrated betting system  
-- Fully compatible with latest Paper/Spigot  
-
----
-
 ## 🏫 Education
 
 **🎓 Universidad Abierta Interamericana (UAI)**  
